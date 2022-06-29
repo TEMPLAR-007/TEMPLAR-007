@@ -6,7 +6,7 @@
 - 🌱  I'm a web developer with a focus on Full Stack Web Developer.
 - ⚡ I love exploring other technologies and frameworks that catch my interest!.
 - 📫 Email arefin.khan8364@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20views&color=E4405F&style=flat" alt="saminravi99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20views&color=E4405F&style=flat" alt="TEMPLAR-007" /> </p>
 
 ## Connect with Me
 
