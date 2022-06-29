@@ -1,5 +1,5 @@
 <!-- Welcome Message-->
-<h1>Hey! I'm Arefin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1>Hey! I'm Arefin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> </h1>
 
 - 💻 Jr. MERN Stack Web Developer
 - 🌱  I'm a web developer with a focus on Full Stack Web Developer.
