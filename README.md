@@ -25,26 +25,3 @@
 ![Linux](https://img.shields.io/badge/linux-ffef00?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-
-
-
-
-
-<!--![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
-
-<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
-
-
-
-
-## My Stats 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEMPLAR-007&hide_border=true&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TEMPLAR-007&show_icons=true&hide_border=true&theme=tokyonight)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TEMPLAR-007&theme=tokyonight)  
- 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TEMPLAR-007&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
