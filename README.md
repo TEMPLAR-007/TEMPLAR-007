@@ -2,8 +2,7 @@
 <h1>Hey! I'm  Arefin <img src="https://media2.giphy.com/media/MWrYOCmim6c8eWNiHA/giphy.gif?cid=790b76117059d7deff0336e92cbfcb067a5497ef9fb9774b&rid=giphy.gif&ct=s" width="5px"> </h1>
 
 
-- 💻 MERN Stack Web Developer
-- 🌱  I'm a web developer with a focus on Full Stack Web Developer.
+- 💻 Full Stack Web Developer
 - ⚡ I love exploring other technologies and frameworks that catch my interest!.
 - 📫 Email arefin.khan8364@gmail.com
 
